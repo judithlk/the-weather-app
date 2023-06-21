@@ -9,7 +9,7 @@ Open Weather - Current Weather Data (https://openweathermap.org/current)
 
 ### API Information
 - Method: `GET`
-- URL: `https://www.googleapis.com/books/v1/volumes?q=${inputTerm}&key=${process.env.REACT_APP_GB_API_KEY}&maxResults=40`
+- URL: `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${process.env.REACT_APP_OW_API_KEY}`
 
 ### Library used:
 Axios (https://axios-http.com/docs/intro)
