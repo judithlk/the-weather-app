@@ -1,5 +1,6 @@
 # T H E  W E A T H E R  A P P 
 A react app for getting the weather of any city.
+Live link - https://judithlk.github.io/the-weather-app/
 
 ## Screenshot
 ![](./public/the-weather-app.png)
